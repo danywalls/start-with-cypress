@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'I learn TestBed';
   helloWorld() {
-    this.title = 'But we love Cypress!';
+    this.title = 'But We love Cypress!';
   }
 }
